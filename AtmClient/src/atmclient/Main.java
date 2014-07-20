@@ -13,7 +13,6 @@ import java.util.Scanner;
 /**
  *
  * @author Giannouloudis Stergios
- * AEM: 1877
  */
 public class Main {
 
